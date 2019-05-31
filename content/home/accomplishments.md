@@ -19,6 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Obermann Center for Advanced Studies and funded by the Mellon Foundation"
+  organization_url = "https://mellon.org/"
+  title = "Latinidades Dissertation Fellowship for Mellon-Sawyer Seminar"
+  url = "https://obermann.uiowa.edu/programs/andrew-w-mellon-sawyer-seminar"
+  certificate_url = ""
+  date_start = "2019-08-01"
+  date_end = "2020-06-05"
+  description = ""
+
+[[item]]
   organization = "American Political Science Association"
   organization_url = ""
   title = "Latino Caucus Travel Fund"
