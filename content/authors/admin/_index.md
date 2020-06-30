@@ -18,7 +18,7 @@ organizations:
   url: "https://clas.uiowa.edu/polisci/people/rachel-torres"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Graduate student at the University of Iowa.
+bio: PhD candidate at the University of Iowa.
 
 interests:
 - Immigration
@@ -70,6 +70,6 @@ social:
 #- Visitors
 ---
 
-My name is Rachel S. Torres and I'm currently a doctoral candidate at the University of Iowa in the Department of Political Science. I graduated from the University of North Texas with a B.A. in Political Science in 2016, and was previously a McNair Scholar. In 2015, I participated in UNT’s National Science Foundation sponsored Research Experience for Undergraduates on ‘Conflict and Peace Studies’. Currently, I serve as a Dissertation Fellow for the Mellon-Sawyer Seminar’s “Imagining Latinidades: Articulations of National Belonging” housed in the Obermann Center for Advanced Studies and funded by the Mellon Foundation.
+My name is Rachel Torres and I'm a doctoral candidate at the University of Iowa in the Department of Political Science. I graduated from the University of North Texas with a B.A. in Political Science in 2016, and was previously a McNair Scholar. I am currently a Ballard and Seashore Fellowship Recipent for the Fall 2020 semester.
 
-My dissertation examines how local policy interacts with federal immigration enforcement, and the impact of this interaction on both foreign and native-born Latino political attitudes and behavior. I intend to defend my dissertation in Spring of 2021.
+My dissertation examines how local policy interacts with federal immigration enforcement, and the impact of this interaction on both foreign and native-born Latino political attitudes and behavior. I intend to defend my dissertation in the Spring of 2021.
