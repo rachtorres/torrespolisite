@@ -18,8 +18,8 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Graduate Student Instructor"
-  company = "Introduction to the Politics of Race (Online)"
+  title = "Introduction to the Politics of Race (POLI1900)"
+  company = ""
   company_url = ""
   location = "University of Iowa"
   date_start = "2019-06-24"
@@ -34,8 +34,8 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Graduate Student Instructor"
-  company = "Immigration Politics"
+  title = "Immigration Politics (POLI:3104 / LATS:3104 / LAS:3104)"
+  company = ""
   company_url = ""
   location = "University of Iowa"
   date_start = "2019-01-15"
@@ -49,8 +49,8 @@ date_format = "Jan 2006"
   * Grading"""
   
     [[experience]]
-  title = "Teaching Assistant"
-  company = "Intro to American Politics"
+  title = "Intro to American Politics (POLI:1100)"
+  company = ""
   company_url = ""
   location = "University of Iowa"
   date_start = "2018-08-20"
@@ -64,8 +64,8 @@ date_format = "Jan 2006"
   * Grading for section"""
   
       [[experience]]
-  title = "Teaching Assistant"
-  company = "Intro to Political Communication"
+  title = "Intro to Political Communication (POLI:1601)"
+  company = ""
   company_url = ""
   location = "University of Iowa"
   date_start = "2016-08-20"
