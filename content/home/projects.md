@@ -2,10 +2,10 @@
 # A Projects section created with the Portfolio widget.
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
-title = "Projects"
+title = "Manucripts Under Review"
 subtitle = ""
 
 [content]
@@ -26,7 +26,7 @@ subtitle = ""
   #   tag = "*"
   
   # [[content.filter_button]]
-  #   name = "Deep Learning"
+  #   name = "Cosponsoring and Cashing In: U.S. House Members’ support for punitive immigration policy and financial payoffs from the private prison industry"
   #   tag = "Deep Learning"
   
   # [[content.filter_button]]
