@@ -23,15 +23,8 @@ date_format = "Jan 2006"
   company_url = ""
   location = "University of Iowa"
   date_start = "2019-06-24"
-  date_end = "2019-08-01"
-  description = """Adapted preexisiting course into one that could be implemented via the Distance and Online Learning Center.
-  
-  Responsibilities included:
-  
-  * Organized and recorded podcast for students
-  * Created Course Materials
-  * Grading
-  """
+  date_end = "2020-07-01"
+  description = """Adapted preexisiting course into one that could be implemented via the Distance and Online Learning Center. Organized, edited, and recorded an asyncronous podcast for students."""
 
 [[experience]]
   title = "Immigration Politics (POLI:3104 / LATS:3104 / LAS:3104)"
@@ -40,13 +33,7 @@ date_format = "Jan 2006"
   location = "University of Iowa"
   date_start = "2019-01-15"
   date_end = "2019-05-02"
-  description = """Developed and taught an original course on the immigration within the United States.
-  
-  Responsibilities included:
-  
-  * Developed Original Syllabus
-  * Created Course Materials
-  * Grading"""
+  description = """Developed and taught an original course on the immigration within the United States."""
   
     [[experience]]
   title = "Intro to American Politics (POLI:1100)"
@@ -55,13 +42,7 @@ date_format = "Jan 2006"
   location = "University of Iowa"
   date_start = "2018-08-20"
   date_end = "2019-12-14"
-  description = """Worked as a half-time Teaching Assistant.
-  
-  Responsibilities included:
-  
-  * Conducted weekly discussion sections
-  * Created unified materials for All TAs
-  * Grading for section"""
+  description = """Worked as a half-time Teaching Assistant. Conducted weekly discussion sections and created unified materials for the all sections."""
   
       [[experience]]
   title = "Intro to Political Communication (POLI:1601)"
@@ -70,11 +51,6 @@ date_format = "Jan 2006"
   location = "University of Iowa"
   date_start = "2016-08-20"
   date_end = "2016-12-14"
-  description = """Worked as Teaching Assistant.
-  
-  Responsibilities included:
-  
-  * Conducted weekly discussion sections
-  * Grading for section"""
+  description = """Worked as Teaching Assistant. Conducted weekly discussion sections"""
 
 +++
