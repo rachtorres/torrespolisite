@@ -19,6 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "University of Iowa"
+  organization_url = ""
+  title = "Ballard and Seashore Fellowship Recipent 2020 Fall"
+  url = "https://www.grad.uiowa.edu/funding/fellowships/internal/ballard-seashore/recipients/2020-Fall"
+  certificate_url = ""
+  date_start = "2020-09-01"
+  date_end = "2021-01-01"
+  description = ""
+
+[[item]]
   organization = "Obermann Center for Advanced Studies and funded by the Mellon Foundation"
   organization_url = "https://mellon.org/"
   title = "Latinidades Dissertation Fellowship for Mellon-Sawyer Seminar"
@@ -66,15 +76,5 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2017-06-01"
   date_end = "2018-01-01"
-  description = ""
-
-[[item]]
-  organization = "University of Iowa"
-  organization_url = ""
-  title = "Underrepresented Minority Pre-Comprehensive Mentored Summer Research Fellowship"
-  url = "https://www.grad.uiowa.edu/funding/fellowships/internal/underrepresented-pre-comp-summer"
-  certificate_url = ""
-  date_start = "2017-06-01"
-  date_end = "2017-08-01"
   description = ""
 +++
