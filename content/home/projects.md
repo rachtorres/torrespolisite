@@ -21,27 +21,31 @@ subtitle = ""
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
   
-  # [[content.filter_button]]
-  #   name = "All"
-  #   tag = "*"
+ [[content.filter_button]]
+  name = "All"
+  tag = "*"
   
-  # [[content.filter_button]]
-  #   name = "Cosponsoring and Cashing In: U.S. House Members’ support for punitive immigration policy and financial payoffs from the private prison industry"
-  #   tag = "Deep Learning"
+[[content.filter_button]]
+  name = "Cosponsoring and Cashing In: U.S. House Members’ support for punitive immigration policy and financialpayoffs from the private prison industry"
+  tag = "cosponsor"
   
-  # [[content.filter_button]]
-  #   name = "Other"
-  #   tag = "Demo"
+[[content.filter_button]]
+  name = "Policing Participation: Policy Feedback in Context"
+  tag = "policing"
+
+[[content.filter_button]]
+  name = "When Policy Clashes: Understanding Policy Feedback in Varying Policy Environments"
+  tag = "policyclash"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "2"
+  columns = "1"
 
   # Toggle between the various page layout types.
   #   1 = List
   #   3 = Card
   #   5 = Showcase
-  view = 3
+  view = 1
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false
