@@ -26,15 +26,15 @@ subtitle = ""
   tag = "*"
   
 [[content.filter_button]]
-  name = "Cosponsoring and Cashing In: U.S. House Members’ support for punitive immigration policy and financialpayoffs from the private prison industry"
+  name = "Cosponsoring and Cashing In"
   tag = "cosponsor"
   
 [[content.filter_button]]
-  name = "Policing Participation: Policy Feedback in Context"
+  name = "Policing Participation"
   tag = "policing"
 
 [[content.filter_button]]
-  name = "When Policy Clashes: Understanding Policy Feedback in Varying Policy Environments"
+  name = "When Policy Clashes"
   tag = "policyclash"
 
 [design]
