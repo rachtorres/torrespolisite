@@ -19,7 +19,17 @@
 #  weight = 30
 
 [[main]]
-  name = "Publications"
+  name = "Teaching"
+  url = "#experience"
+  weight = 20
+
+[[main]]
+  name = "Honors and Awards"
+  url = "#accomplishments"
+  weight = 30
+
+[[main]]
+  name = "Research"
   url = "#publications"
   weight = 40
 
