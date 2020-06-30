@@ -72,4 +72,4 @@ social:
 
 My name is Rachel Torres and I'm a doctoral candidate at the University of Iowa in the Department of Political Science. I graduated from the University of North Texas with a B.A. in Political Science in 2016, and was previously a McNair Scholar. I am currently a Ballard and Seashore Fellowship Recipent for the Fall 2020 semester.
 
-My dissertation examines how local policy interacts with federal immigration enforcement, and the impact of this interaction on both foreign and native-born Latino political attitudes and behavior. I intend to defend my dissertation in the Spring of 2021.
+My research examines how localized policy interacts with federal immigration enforcement, and the impact of this interaction on both foreign and nativeborn Latinx populations. I intend to defend my dissertation in the Spring of 2021.
