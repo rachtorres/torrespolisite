@@ -11,7 +11,7 @@ interval = false
 
 # Slide height (optional).
 # E.g. `500px` for 500 pixels or `calc(100vh - 70px)` for full screen.
-height = "500px"
+height = "900px"
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
@@ -36,20 +36,20 @@ height = "500px"
 #  cta_icon = "graduation-cap"
 
 [[item]]
-  title = "Left"
-  content = "I am left aligned :smile:"
-  align = "left"
+  title = ""
+  content = ""
+  align = "center"
 
-  overlay_color = "#555"  # An HTML color value.
-  overlay_img = ""  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+# overlay_color = "#555"  # An HTML color value.
+ overlay_img = "headers/artwork2.jpg"  
+# overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 [[item]]
-  title = "Right"
-  content = "I am right aligned :smile:"
-  align = "right"
+  title = ""
+  content = ""
+  align = ""
 
-  overlay_color = "#333"  # An HTML color value.
-  overlay_img = ""  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+#  overlay_color = "#333"  # An HTML color value.
+ overlay_img = "headers/artwork3.jpg"  
+#  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 +++
