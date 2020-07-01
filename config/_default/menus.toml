@@ -36,12 +36,12 @@
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 60
+  weight = 70
   
   [[main]]
-  name = "My Artwork"
+  name = "Artwork"
   url = "#slider"
-  weight = 70
+  weight = 60
 
 
 # Link to a PDF of your resume/CV from the menu.
@@ -49,4 +49,4 @@
  [[main]]
     name = "CV"
     url = "files/cv.pdf"
-    weight = 70
+    weight = 80
