@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "TorresPoliSite"
+title = "Rachel S. Torres"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = ""
@@ -48,5 +48,5 @@ image_darken = 0.8  # Darken the image? Range 0-1 where 0 is transparent and 1 i
 #  label = '<a id="academic-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release <!-- V --></a>'
 +++
 
-Rachel S. Torres, Political Science 
+Political Science 
 
