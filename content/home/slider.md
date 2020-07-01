@@ -23,7 +23,7 @@ height = "900px"
 # Overlay a color or image (optional).
 #   Deactivate an option by commenting out the line, prefixing it with `#`.
 # overlay_color = "#666"  # An HTML color value.
- overlay_img = "headers/artwork1.jpg"  
+ overlay_img = "headers/artwork2.jpg"  
 # Image path relative to your `static/img/` folder.
 #  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
@@ -41,7 +41,7 @@ height = "900px"
   align = "center"
 
 # overlay_color = "#555"  # An HTML color value.
- overlay_img = "headers/artwork2.jpg"  
+ overlay_img = "headers/artwork3.jpg"  
 # overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 [[item]]
@@ -50,6 +50,6 @@ height = "900px"
   align = ""
 
 #  overlay_color = "#333"  # An HTML color value.
- overlay_img = "headers/artwork3.jpg"  
+ overlay_img = "headers/artwork1.jpg"  
 #  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 +++
